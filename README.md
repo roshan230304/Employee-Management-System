@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StaffSync Employee Management System
 
 Existing React/Vite frontend and Express API connected to the existing MySQL
@@ -160,3 +161,6 @@ npm run build
   from the admin employee page.
 - CORS/browser cookie issue: Use the configured `CLIENT_URL`, keep the frontend
   at `http://localhost:3000`, and use HTTPS in production.
+=======
+# Employee-Management-System
+>>>>>>> 53e32a91c981af9507e1f1807a82ee44d5c9990b
